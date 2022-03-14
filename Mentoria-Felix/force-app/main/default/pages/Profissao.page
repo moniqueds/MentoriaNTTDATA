@@ -1,0 +1,21 @@
+<apex:page controller="Credito">  
+      
+    <apex:form >  
+      
+        <apex:pageBlock >  
+          
+            <apex:pageMessages />  
+          
+            Clique em OK para fechar.
+              
+            <apex:pageBlockButtons location="bottom">  
+              
+                <apex:commandButton value="OK" action="{!check}"/>  
+                  
+            </apex:pageBlockButtons>  
+              
+        </apex:pageBlock>  
+          
+    </apex:form>  
+      
+</apex:page>  
