@@ -1,6 +1,6 @@
 # Mentoria NTT DATA EUROPE & LATAM:
 
-This is a training program. 
+This is a training program that started on February/2022
 The company provide training to professionals, and develops their knowledge to work with the Salesforce platform.
 
 Actually I'm learning about:
